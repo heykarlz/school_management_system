@@ -1,4 +1,4 @@
-# Cinema-Booking-System
+# School Management System
 
 This is a school managment system developed in HTML, CSS, JS and Java (JSP and Servlets). The following function is able to be explored by user:
 
