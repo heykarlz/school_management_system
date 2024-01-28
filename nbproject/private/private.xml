@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="Lab 6 CSE3209">
+            <file>file:/C:/Users/haika/Documents/School%20Registration%20System%20@%20CSE3209/web/Student/student-registered-subject.jsp</file>
+        </group>
+        <group name="Quiz Management System Ariff Norhadi"/>
+        <group name="Lab 8">
+            <file>file:/C:/Users/haika/Documents/School%20Registration%20System%20@%20CSE3209/src/java/model/Student.java</file>
+            <file>file:/C:/Users/haika/Documents/School%20Registration%20System%20@%20CSE3209/src/java/database/MySQL.java</file>
+            <file>file:/C:/Users/haika/Documents/School%20Registration%20System%20@%20CSE3209/web/Admin/admin-manage-statistics.jsp</file>
+            <file>file:/C:/Users/haika/Documents/School%20Registration%20System%20@%20CSE3209/src/java/model/Registration.java</file>
+            <file>file:/C:/Users/haika/Documents/School%20Registration%20System%20@%20CSE3209/web/Admin/admin-manage-subjects.jsp</file>
+            <file>file:/C:/Users/haika/Documents/School%20Registration%20System%20@%20CSE3209/src/java/dao/RegistrationDAO.java</file>
+            <file>file:/C:/Users/haika/Documents/School%20Registration%20System%20@%20CSE3209/web/Teacher/teacher-manage-students.jsp</file>
+            <file>file:/C:/Users/haika/Documents/School%20Registration%20System%20@%20CSE3209/src/java/model/Subject.java</file>
+            <file>file:/C:/Users/haika/Documents/School%20Registration%20System%20@%20CSE3209/src/java/dao/TeacherDAO.java</file>
+            <file>file:/C:/Users/haika/Documents/School%20Registration%20System%20@%20CSE3209/web/Admin/process-update-teacher.jsp</file>
+            <file>file:/C:/Users/haika/Documents/School%20Registration%20System%20@%20CSE3209/src/java/dao/StudentDAO.java</file>
+            <file>file:/C:/Users/haika/Documents/School%20Registration%20System%20@%20CSE3209/src/java/controller/StudentController.java</file>
+            <file>file:/C:/Users/haika/Documents/School%20Registration%20System%20@%20CSE3209/src/java/model/Classroom.java</file>
+            <file>file:/C:/Users/haika/Documents/School%20Registration%20System%20@%20CSE3209/src/java/controller/TeacherController.java</file>
+            <file>file:/C:/Users/haika/Documents/School%20Registration%20System%20@%20CSE3209/src/java/model/Admin.java</file>
+            <file>file:/C:/Users/haika/Documents/School%20Registration%20System%20@%20CSE3209/web/Teacher/teacher-navbar.jsp</file>
+            <file>file:/C:/Users/haika/Documents/School%20Registration%20System%20@%20CSE3209/src/java/model/Replacement.java</file>
+            <file>file:/C:/Users/haika/Documents/School%20Registration%20System%20@%20CSE3209/src/java/dao/SubjectDAO.java</file>
+            <file>file:/C:/Users/haika/Documents/School%20Registration%20System%20@%20CSE3209/src/java/controller/SubjectController.java</file>
+            <file>file:/C:/Users/haika/Documents/School%20Registration%20System%20@%20CSE3209/web/Teacher/teacher-homepage.jsp</file>
+            <file>file:/C:/Users/haika/Documents/School%20Registration%20System%20@%20CSE3209/src/java/model/Teacher.java</file>
+            <file>file:/C:/Users/haika/Documents/School%20Registration%20System%20@%20CSE3209/web/Admin/admin-manage-students.jsp</file>
+        </group>
+        <group name="Test Project Orang Lain">
+            <file>file:/C:/Users/haika/Documents/School%20Registration%20System%20@%20CSE3209/src/java/dao/SubjectDAO.java</file>
+            <file>file:/C:/Users/haika/Documents/School%20Registration%20System%20@%20CSE3209/web/Student/student-homepage.jsp</file>
+            <file>file:/C:/Users/haika/Documents/School%20Registration%20System%20@%20CSE3209/web/Student/process-subject-registration.jsp</file>
+        </group>
+        <group name="Lab 8 CSE3209">
+            <file>file:/C:/Users/haika/Downloads/School%20Registration%20System%20@%20CSE3209%20FInal%20Version/School%20Registration%20System%20@%20CSE3209/web/Admin/admin-manage-teachers.jsp</file>
+            <file>file:/C:/Users/haika/Downloads/School%20Registration%20System%20@%20CSE3209%20FInal%20Version/School%20Registration%20System%20@%20CSE3209/web/Admin/admin-navbar.jsp</file>
+            <file>file:/C:/Users/haika/Downloads/School%20Registration%20System%20@%20CSE3209%20FInal%20Version/School%20Registration%20System%20@%20CSE3209/web/Admin/admin-manage-students.jsp</file>
+            <file>file:/C:/Users/haika/Downloads/School%20Registration%20System%20@%20CSE3209%20FInal%20Version/School%20Registration%20System%20@%20CSE3209/web/Student/log-in.jsp</file>
+            <file>file:/C:/Users/haika/Downloads/School%20Registration%20System%20@%20CSE3209%20FInal%20Version/School%20Registration%20System%20@%20CSE3209/src/java/controller/StudentController.java</file>
+            <file>file:/C:/Users/haika/Downloads/School%20Registration%20System%20@%20CSE3209%20FInal%20Version/School%20Registration%20System%20@%20CSE3209/web/Admin/admin-manage-subjects.jsp</file>
+            <file>file:/C:/Users/haika/Downloads/School%20Registration%20System%20@%20CSE3209%20FInal%20Version/School%20Registration%20System%20@%20CSE3209/web/Admin/admin-manage-statistics.jsp</file>
+        </group>
+        <group name="Web Development Sem 4"/>
+        <group name="Gaming Store System">
+            <file>file:/C:/Users/haika/Documents/Coding/School%20Registration%20System%20@%20CSE3209%20FInal%20Version/School%20Registration%20System%20@%20CSE3209/src/java/dao/RegistrationDAO.java</file>
+            <file>file:/C:/Users/haika/Documents/Coding/School%20Registration%20System%20@%20CSE3209%20FInal%20Version/School%20Registration%20System%20@%20CSE3209/web/index.jsp</file>
+            <file>file:/C:/Users/haika/Documents/Coding/School%20Registration%20System%20@%20CSE3209%20FInal%20Version/School%20Registration%20System%20@%20CSE3209/web/Student/test.jsp</file>
+            <file>file:/C:/Users/haika/Documents/Coding/School%20Registration%20System%20@%20CSE3209%20FInal%20Version/School%20Registration%20System%20@%20CSE3209/web/Student/student-registered-subject.jsp</file>
+        </group>
+        <group name="Lab 7 CSE3209">
+            <file>file:/C:/Users/haika/Documents/Coding/Uni%20Project/School%20Registration%20System%20@%20CSE3209%20FInal%20Version/School%20Registration%20System%20@%20CSE3209/web/images/logo.png</file>
+        </group>
+    </open-files>
+</project-private>
